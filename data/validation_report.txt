@@ -1,0 +1,12 @@
+MASTER DATA VALIDATION REPORT
+============================================================
+
+Total Models : 119
+
+Missing Brand : 0
+
+Missing Tank : 0
+
+Missing Shape : 0
+
+Missing Power : 0

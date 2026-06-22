@@ -1,0 +1,5 @@
+pandas
+openpyxl
+rapidfuzz
+pyqt6
+sqlite-utils

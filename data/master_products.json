@@ -1,0 +1,716 @@
+{
+    "Alcedo": {
+        "brand": "Black+Decker",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Alcedo Plus": {
+        "brand": "Black+Decker",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Aqua": {
+        "brand": "Veto",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Aqua Hot": {
+        "brand": "Allomax",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Aqua-Digital": {
+        "brand": "Veto",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Aquaglass": {
+        "brand": "Kenstar",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Aqualia Pro": {
+        "brand": "Kenstar",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Aqualia Vogue": {
+        "brand": "Kenstar",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Aquanova Nxt": {
+        "brand": "Orient",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Aquasys": {
+        "brand": "Johnson",
+        "tank_type": "Ss Tank",
+        "shape": "Vertical",
+        "power": "3 kW"
+    },
+    "Aquasys-5L": {
+        "brand": "Johnson",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Aquatic": {
+        "brand": "Lazer",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Aquator Edge": {
+        "brand": "Orient",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Aquator Manual": {
+        "brand": "Orient",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Aquator Neo": {
+        "brand": "Orient",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Arctic-Ex": {
+        "brand": "Surya",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Ardor Qube+": {
+        "brand": "Rr",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Atlantic": {
+        "brand": "Surya",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Aura Pro": {
+        "brand": "Orient",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Balin": {
+        "brand": "Gm Elektra",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Bero": {
+        "brand": "Mccoy",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Calescent 5S": {
+        "brand": "Rr",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Calid Pro": {
+        "brand": "Rr",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Celestia Prime": {
+        "brand": "Polycab",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Classic": {
+        "brand": "Allomax",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Classic-Hz": {
+        "brand": "Allomax",
+        "tank_type": "Glassline",
+        "shape": "Horizontal",
+        "power": "2 kW"
+    },
+    "Cozy": {
+        "brand": "Polar",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Croma-3L": {
+        "brand": "Croma",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Croma-5L": {
+        "brand": "Croma",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Croma-Vertical": {
+        "brand": "Croma",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Cronos Pro": {
+        "brand": "Orient",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Crystal": {
+        "brand": "Kromo",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "E-Croma": {
+        "brand": "Croma",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Ecoswift Pro": {
+        "brand": "Orient",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Elanza Dlx": {
+        "brand": "Polycab",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Elix": {
+        "brand": "Kenstar",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Emerald Plus": {
+        "brand": "Polycab",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Emeta": {
+        "brand": "Kenstar",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Equator": {
+        "brand": "Sunflame",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Espiro Plus": {
+        "brand": "Hindware",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Evano": {
+        "brand": "Hindware",
+        "tank_type": "Glassline",
+        "shape": "Horizontal",
+        "power": "2 kW"
+    },
+    "Flicko": {
+        "brand": "Bpl",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Flux": {
+        "brand": "Kenstar",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Fontus": {
+        "brand": "Orient",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "G Hydro Dx": {
+        "brand": "Goldmedal",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Glassline Model": {
+        "brand": "Smart",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Glazio Plus": {
+        "brand": "Orient",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Glen-5 Litre": {
+        "brand": "Glen",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Grace": {
+        "brand": "Sunflame",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Gush+": {
+        "brand": "Polar",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Hot Prime": {
+        "brand": "Sakash",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Hotspring": {
+        "brand": "Lazer",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Hotstar": {
+        "brand": "Kenstar",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Immedio": {
+        "brand": "Hindware",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Immedio Plus": {
+        "brand": "Hindware",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Immedio Prime": {
+        "brand": "Hindware",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Insta Pro Ecom": {
+        "brand": "Surya",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Instaflo": {
+        "brand": "Orient",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Instaflo Neo Mg": {
+        "brand": "Orient",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Instaflo Neo Sg": {
+        "brand": "Orient",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Instahot": {
+        "brand": "Surya",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Instant-3L": {
+        "brand": "Lifelong",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Inste": {
+        "brand": "Kenstar",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Intenso": {
+        "brand": "Polycab",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Isf": {
+        "brand": "Sunflame",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Iwh-3L,4.5Kw": {
+        "brand": "Accura",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "4.5 kW"
+    },
+    "Jaccuzi Neo": {
+        "brand": "Kenstar",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Kompakt": {
+        "brand": "Johnson",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Kromo-3L": {
+        "brand": "Kromo",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Kromo-5L": {
+        "brand": "Kromo",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Lava": {
+        "brand": "Polar",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Lava+": {
+        "brand": "Polar",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Lhs Aquaslim": {
+        "brand": "Orient",
+        "tank_type": "Glassline",
+        "shape": "Horizontal",
+        "power": "2 kW"
+    },
+    "Lhs Arctic Ex": {
+        "brand": "Surya",
+        "tank_type": "Polymer",
+        "shape": "Horizontal",
+        "power": "2 kW"
+    },
+    "Lhs Diamond": {
+        "brand": "Kromo",
+        "tank_type": "Glassline",
+        "shape": "Horizontal",
+        "power": "2 kW"
+    },
+    "Lhs-15": {
+        "brand": "Accura",
+        "tank_type": "Polymer",
+        "shape": "Horizontal",
+        "power": "2 kW"
+    },
+    "Marvel": {
+        "brand": "Kenstar",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Maximus": {
+        "brand": "Kenstar",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Metal-Polymer": {
+        "brand": "Glen",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "New Ardent Pro": {
+        "brand": "Rr",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Oris": {
+        "brand": "Kenstar",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Oro": {
+        "brand": "Gm Elektra",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Oxy": {
+        "brand": "Goldmedal",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Pacific": {
+        "brand": "Surya",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Pacific Hz": {
+        "brand": "Surya",
+        "tank_type": "Glassline",
+        "shape": "Horizontal",
+        "power": "2 kW"
+    },
+    "Pexon": {
+        "brand": "Venus",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Psg 25Gln": {
+        "brand": "Inalsa",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Qube+": {
+        "brand": "Surya",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Qube+30": {
+        "brand": "Surya",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Quick Hot": {
+        "brand": "Veto",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Radix": {
+        "brand": "Kenstar",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Rapidus": {
+        "brand": "Orient",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Refresha Pro": {
+        "brand": "Polar",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Rhs Aquaslim": {
+        "brand": "Orient",
+        "tank_type": "Glassline",
+        "shape": "Horizontal",
+        "power": "2 kW"
+    },
+    "Rhs Arctic Ex": {
+        "brand": "Surya",
+        "tank_type": "Polymer",
+        "shape": "Horizontal",
+        "power": "2 kW"
+    },
+    "Rhs Diamond": {
+        "brand": "Kromo",
+        "tank_type": "Glassline",
+        "shape": "Horizontal",
+        "power": "2 kW"
+    },
+    "Rhs-15": {
+        "brand": "Accura",
+        "tank_type": "Polymer",
+        "shape": "Horizontal",
+        "power": "2 kW"
+    },
+    "Savo": {
+        "brand": "Black+Decker",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Savo Pro": {
+        "brand": "Black+Decker",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Sicuro": {
+        "brand": "Sameer",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Solace": {
+        "brand": "Sunflame",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Spanza Eco": {
+        "brand": "Kenstar",
+        "tank_type": "Polymer",
+        "shape": "Horizontal",
+        "power": "2 kW"
+    },
+    "Spanza Pro": {
+        "brand": "Kenstar",
+        "tank_type": "Glassline",
+        "shape": "Horizontal",
+        "power": "2 kW"
+    },
+    "Speedy": {
+        "brand": "Surya",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Speedy Ecom": {
+        "brand": "Surya",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Splash": {
+        "brand": "Kenstar",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Splash-5L": {
+        "brand": "Accura",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Square Digital": {
+        "brand": "Croma",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Steamer": {
+        "brand": "Lazer",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Stylo": {
+        "brand": "Smart",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Superia Dlx": {
+        "brand": "Polycab",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    },
+    "Supremus Gls": {
+        "brand": "Rr",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Swh27-15L": {
+        "brand": "Sujata",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Swh27-25L": {
+        "brand": "Sujata",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Tefra": {
+        "brand": "Venus",
+        "tank_type": "Ss Tank",
+        "shape": "Instant",
+        "power": "3 kW"
+    },
+    "Xceed Plus": {
+        "brand": "Hindware",
+        "tank_type": "Glassline",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Zimina": {
+        "brand": "Black+Decker",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Zimina Plus": {
+        "brand": "Black+Decker",
+        "tank_type": "Polymer",
+        "shape": "Vertical",
+        "power": "2 kW"
+    },
+    "Zyra": {
+        "brand": "Kenstar",
+        "tank_type": "Glassline",
+        "shape": "Square",
+        "power": "2 kW"
+    }
+}
